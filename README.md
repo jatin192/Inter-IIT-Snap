@@ -41,13 +41,3 @@ A Snap example based on [@MetaMask/template-snap](https://github.com/MetaMask/te
 4. The project should now be running locally!
 
 ## Collaborators
-|Name|
-|--|
-|[Sahil Harpal](https://github.com/Sahil1479)|
-|[Jatin Singhal](https://github.com/jatin192)|
-|[Kunal Tiwari](https://github.com/kunal-iitj)|
-|[Ayush Kumar](https://github.com/ayushkr1701)|
-|[Anadi Sharma](https://github.com/Asharma538)|
-|[Aditya Soni](https://github.com/adityasoni19)|
-|[Ayush Abrol](https://github.com/naman280104)|
-|[Dilip Chaudhary](https://github.com/AgrawalDrishti)|
